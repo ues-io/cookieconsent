@@ -1,0 +1,5 @@
+semi: false
+overrides:
+  - files: "*.yaml"
+    options:
+      printWidth: 1000
